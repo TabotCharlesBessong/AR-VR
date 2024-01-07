@@ -9,7 +9,10 @@ body {
   text-align: center;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
+  margin: 3rem auto;
+  height: 100vh;
+  flex-direction: column;
 }
 
 h1 {
